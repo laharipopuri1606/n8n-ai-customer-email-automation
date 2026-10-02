@@ -1,4 +1,4 @@
-n8n AI Customer Email Automation
+N8N AI Customer Email Automation
 
 An AI-powered customer email automation workflow built using n8n.
 
