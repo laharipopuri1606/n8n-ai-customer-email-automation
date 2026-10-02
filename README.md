@@ -2,7 +2,7 @@ N8N AI Customer Email Automation
 
 An AI-powered customer email automation workflow built using n8n.
 
-->Workflow
+-> Workflow
 
 Customer Email  
 ↓  
@@ -16,7 +16,7 @@ Gmail Reply
 ↓  
 Customer
 
-->Email Categories
+-> Email Categories
 
 - Product Inquiry
 - Order
@@ -24,7 +24,7 @@ Customer
 - Complaint
 - General Inquiry
 
-->Technologies Used
+-> Technologies Used
 
 - n8n
 - Gmail
@@ -43,6 +43,28 @@ Customer
 -> Workflow File
 
 The exported n8n workflow is included in this repository.
+
+-> Screenshots
+
+- Complete Workflow
+
+![Complete n8n Workflow](./Screenshot%202026-10-02%20215451.png)
+
+- Gmail Trigger
+
+![Gmail Trigger](./Screenshot%202026-10-02%20215532.png)
+
+- Text Classifier
+
+![Text Classifier](./Screenshot%202026-10-02%20215555.png)
+
+- AI Agent
+
+![AI Agent](./Screenshot%202026-10-02%20215616.png)
+
+- Gmail Reply
+
+![Gmail Reply](./Screenshot%202026-10-02%20215634.png)
 
 -> Note
 
